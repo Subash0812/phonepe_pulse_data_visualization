@@ -17,6 +17,8 @@ Work Flow:
 5. Data retrieval: Use the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe. Use the data in the dataframe to update the dashboard dynamically.
 
 ### GUI
+![image](https://github.com/Subash0812/phonepe_pulse_data_visualization/assets/125037396/0f71f79a-0b42-4616-b7ff-f3daa83254f3)
+
 
 We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements.
 
