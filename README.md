@@ -18,6 +18,9 @@ Work Flow:
 
 ### GUI
 ![image](https://github.com/Subash0812/phonepe_pulse_data_visualization/assets/125037396/0f71f79a-0b42-4616-b7ff-f3daa83254f3)
+![image](https://github.com/Subash0812/phonepe_pulse_data_visualization/assets/125037396/3e536de5-44a9-4ef5-8245-0983051dab7c)
+![image](https://github.com/Subash0812/phonepe_pulse_data_visualization/assets/125037396/6697ccc1-b850-42cb-aa2d-0d4c291e84cf)
+![image](https://github.com/Subash0812/phonepe_pulse_data_visualization/assets/125037396/c3032d01-c0c1-465c-96ad-63affdb43d9b)
 
 
 We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements.
