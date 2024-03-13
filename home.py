@@ -164,7 +164,7 @@ with tab2:
     col1,col2 = st.columns(2)
     total_users = sum(us_year_df['Users'])
     col1.metric(
-    label = f'Total Phonepe Transaction count till {year2} (UPI+Cards+Wallets)',
+    label = f'Total Phonepe Users count till {year2} (UPI+Cards+Wallets)',
     value = '{:.2f} Cr'.format(total_users/100000000),
     delta = 'Upward Trend'
 )
@@ -194,5 +194,5 @@ with tab2:
 
 show_pages([
     Page('home.py','Home and Dashboard','🏠'),
-    Page('ins.py','Insights','✍')
+    Page('insights.py','Insights','✍')
 ])
