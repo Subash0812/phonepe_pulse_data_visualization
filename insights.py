@@ -133,5 +133,5 @@ with tab2:
     fig.update_layout(width=1100,height=600)
     st.plotly_chart(fig)
 
-    st.write('### :orange[District wise Transactions]')
+    st.write('### :orange[District wise Users]')
     st.dataframe(map_user_df,hide_index=True)
